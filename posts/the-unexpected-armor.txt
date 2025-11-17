@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Unexpected Armor</title>
+    <link rel="stylesheet" href="../styles.css"> 
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main class="container">
+        <div class="hero-image">
+            <img src="../image.jpg" alt="A soft, intimate mother and child moment">
+        </div>
+        
+        <article class="blog-post">
+            <h1 class="main-title">💥 The Unexpected Armor: How Four Years of Breastfeeding Taught Me My Superpower</h1>
+
+            <p class="intro-paragraph">I’m standing here, at the quiet close of a chapter that has defined nearly four years of my life. It’s an ending that feels like the last, soft chord of a beautiful, extended song. My breastfeeding journey—first with My First Boy for two whole years, and then another two, glorious years with My Second Boy—is officially over. And let me tell you, this is a story that started less like a fairytale and more like a shocking plot twist.</p>
+
+            <section class="act-section act-one">
+                <h2>🕰️ Act I: The Naive Newbie and a Shaking Start</h2>
+                <p>Before I had babies, the whole idea of breastfeeding felt foreign. Distant. Maybe even a little… weird. During my entire first pregnancy, I was so focused on the big picture—the nursery, the name, the due date—that this vital, intimate detail was just a footnote in my mind.</p>
+                <p>... and fiercely capable.</p>
+            </section>
+            
+            <div class="conclusion-box">
+                <p>And so, I close this chapter with a proud, grateful heart, knowing that the most complex, mysterious, and magical work I will ever do was crafted right here, in the fierce, wise engine of the female body.</p>
+                <p>This journey proved that great power isn't necessarily found in a crown, but in the miraculous, powerful wisdom woven into our anatomy—a truth I'll carry with me, long after the last feed has faded to a memory.</p>
+            </div>
+            
+        </article>
+    </main>
+    <footer>
+        <p><a href="../index.html" style="color: #6a6a6a;">← Back to All Notes</a></p>
+        <p>&copy; 2025 Notes on the Plot Twist.</p>
+    </footer>
+</body>
+</html>
